@@ -3,7 +3,7 @@
 # Rotachev Alexander <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=Ml;Web;Data Analyse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=ML;Web;Data%20Analysis" alt="Typing SVG" />
 </a>
 
 ---
@@ -77,3 +77,4 @@
 
 
 </div>
+
