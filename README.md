@@ -1,18 +1,18 @@
 <div align="center">
 
-# Привет, я Devw3! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Rotachev Alexander <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=Разработчик;Люблю+красивый+код;Всегда+учусь+новому" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3000&pause=500&color=39FF14&center=true&vCenter=true&width=435&lines=Ml;Web;Data Analyse" alt="Typing SVG" />
 </a>
 
 ---
 
 ### 🚀 Немного обо мне
-
-Я начинающий разработчик, увлеченный созданием крутых штук.
-(Тут напиши пару строк о себе: чем увлекаешься, что сейчас изучаешь, над чем работаешь. Это делает профиль живым!)
-
+Меня зовут Александр Ротачёв. Я студент первого курса ИТМО ИИИ, занимаюсь машинным обучением уже более двух лет. 
+За это время я успел поучаствовать во множестве хакатонов и олимпиад по тематике ИИ и 
+машинного обучения. Я участник финала всероссийской олимпиады по ИИ, призёр олимпиады 
+НТО по профилю ИИ, участник смены Сириус ИИ и мн. др.
 ---
 
 ### 📊 Моя статистика на GitHub
@@ -46,13 +46,13 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 
-**Frontend (Пример):**
+**Frontend**
 <br>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
-**Backend & Базы данных (Пример):**
+**Backend & Базы данных**
 <br>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -71,15 +71,9 @@
 <a href="https://t.me/ТВОЙ_НИК_В_ТЕЛЕГЕ" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
 </a>
-<a href="https://vk.com/ТВОЙ_ID_ВК" target="_blank">
-  <img src="https://img.shields.io/badge/VK-4680C2?style=for-the-badge&logo=vk&logoColor=white" alt="VK"/>
-</a>
-<a href="mailto:ТВОЯ_ПОЧТА@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
 ---
 <br>
 <img src="https://media.giphy.com/media/LpTfU63Y5L6hE2Fv8h/giphy.gif" width="100px">
+
 
 </div>
